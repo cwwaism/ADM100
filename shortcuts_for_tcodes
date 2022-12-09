@@ -1,0 +1,40 @@
+TR0000100002AL08                                            Users Logged On                                                                                                                     
+TR0000100027PFCG                                            Role Maintenance                                                                                                                    
+TR0000100020RSPFPAR                                         Display profile parameter                                                                                                           
+TR0000100003RZ03                                            Presentation, Control SAP Instances                                                                                                 
+TR0000100004RZ04                                            Maintain SAP Instances                                                                                                              
+TR0000100005RZ10                                            Maintain Profile Parameters                                                                                                         
+TR0000100006RZ11                                            Profile Parameter Maintenance                                                                                                       
+TR0000100031SARFC                                           Server Resources for Asynchr. RFC                                                                                                   
+TR0000100035SNOTE                                           Note Assistant                                                                                                                      
+TR0000100007SM02                                            System Messages                                                                                                                     
+TR0000100008SM04                                            Logons to an AS Instance                                                                                                            
+TR0000100009SM12                                            Display and Delete Locks                                                                                                            
+TR0000100010SM13                                            Administrate Update Records                                                                                                         
+TR0000100011SM21                                            system log                                                                                                                          
+TR0000100023SM30                                            Call View Maintenance                                                                                                               
+TR0000100036SM36                                            Schedule Background Job                                                                                                             
+TR0000100037SM36WIZ                                         Job definition wizard                                                                                                               
+TR0000100038SM37                                            Overview of job selection                                                                                                           
+TR0000100012SM50                                            Work Processes of AS Instance                                                                                                       
+TR0000100013SM51                                            Started AS Instances                                                                                                                
+TR0000100030SM59                                            RFC Destinations (Display/Edit)                                                                                                     
+TR0000100014SM63                                            Display/Maintain Operating Mode Sets                                                                                                
+TR0000100040SM64                                            Manage Background Processing Events                                                                                                 
+TR0000100039SM65                                            Background Processing Analysis Tool                                                                                                 
+TR0000100041SM69                                            Maintain External OS Commands                                                                                                       
+TR0000100015SMGW                                            Gateway Monitor                                                                                                                     
+TR0000100016SMICM                                           ICM Monitor                                                                                                                         
+TR0000100017SMLG                                            Maint.Assign. Logon Grp to Instance                                                                                                 
+TR0000100033SPAD                                            Spool Administration                                                                                                                
+TR0000100018SP01                                            Output Controller                                                                                                                   
+TR0000100019SP02                                            Display Spool Requests                                                                                                              
+TR0000100034SPOOL                                           Overview of Spool Reports                                                                                                           
+TR0000100029STAUTHTRACE                                     Authorization Trace                                                                                                                 
+TR0000100021STC01                                           Task Manager for Tech. Configuration                                                                                                
+TR0000100022STC02                                           Task List Run Monitor                                                                                                               
+TR0000100025SU01                                            User Maintenance                                                                                                                    
+TR0000100024SU10                                            User Mass Maintenance                                                                                                               
+TR0000100032SU3                                             Maintain Users Own Data                                                                                                             
+TR0000100028SU53                                            Evaluate Authorization Check                                                                                                        
+TR0000100026SUIM                                            User Information System                                                                                                             
